@@ -1,0 +1,18 @@
+18/02/2009
+
+Projeto que representa um sistema de almoxarifado.
+Linguagem utilizada: Java - Swing/Awt + Banco de dados MySQL (JDBC).
+
+Quem estiver aprendendo Swing/Awt da pra pegar bastante coisa daqui, ainda mais que foi utilizando o GridBagLayout que deixa as janelas bem organizadas.
+
+O banco está configurado da seguinte maneira:
+username: root
+password: root
+database: almoxarifado
+
+Caso a sua esteja diferente é só entrar na classe Banco.java, as configurações estão logo nas linhas iniciais.
+
+Ps: Tudo foi feito no eclipse. =P (Pra quem não entendeu é que o netbeans desenha essas janelinhas bem rapidim..)
+
+@Author: Rodrigo Ramalho da Silva
+	hodrigohamalho@gmail.com
